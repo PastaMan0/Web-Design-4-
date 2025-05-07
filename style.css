@@ -1,0 +1,20 @@
+#intro{
+    color: navy;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    background-color: lightblue;
+}
+.details{
+    color: darkred;
+    font-weight: bold;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    font-size: 18px;
+    background-color: #ffe4e1;
+}
+.note{
+    color: orange;
+    font-weight: bold;
+    background-color: #fafad2;
+}
